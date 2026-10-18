@@ -31,13 +31,29 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
       - name: Setup Pages
+        id: pages
         uses: actions/configure-pages@v5
+      - name: Build website
+        run: node tools/build.mjs
+      - name: Check website
+        run: node tools/check.mjs
+      - name: Export website
+        env:
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: node tools/export-pages.mjs --base=${BASE_PATH%/}/
+      - name: Check export
+        env:
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: node tools/check-pages-export.mjs ${BASE_PATH%/}/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: '.'
+          path: deploy/github-pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5

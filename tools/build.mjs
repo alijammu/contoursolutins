@@ -30,6 +30,16 @@ for (const record of good) {
     if (record.kind === 'page') text = text.replace(/<section\b[^>]*class=["']page-content comments-content["'][^>]*>[\s\S]*?<\/section>/gi, '');
     text = localize(text);
     if (record.kind === 'page') {
+      if (!branding.email && !branding.partnerEmail) {
+        const oldEmail = '[A-Z0-9._%+-]+@htechsupports\\.com';
+        // Remove the contact-page email card without touching its sibling cards.
+        text = text.replace(/<div class="cb-container[^"<]*"[^>]*>(?:(?!<div class="cb-container)[\s\S])*?<h4 class="cb-heading"[^>]*>Email<\/h4><p[^>]*>[\s\S]*?<\/p><\/div><\/div><\/div>/gi, block => /@htechsupports\.com/i.test(block) ? '' : block);
+        text = text.replace(/<div class="kd-panel-email">[\s\S]*?<\/div>/gi, block => /@htechsupports\.com/i.test(block) ? '' : block);
+        text = text.replace(/<div id="custom_html-1"[^>]*><h5[^>]*><span>USA OFFICE<\/span><\/h5><div[^>]*><b>Email:<\/b>\s*sales@htechsupports\.com<\/div><\/div>/gi, '');
+        text = text.replace(new RegExp('<a\\b[^>]*href=["\\\']mailto:'+oldEmail+'[^"\\\']*["\\\'][^>]*>[\\s\\S]*?<\\/a>', 'gi'), '');
+        text = text.replace(new RegExp('<(?:strong|b)>Email:<\\/(?:strong|b)>\\s*'+oldEmail, 'gi'), '');
+        text = text.replace(new RegExp(oldEmail, 'gi'), '');
+      }
       // Replace WordPress-only form transport with our local submission handler.
       text = text.replace(/<script\b[^>]*(?:src|id)=["'][^"']*(?:contact-form-7|swv-js|wpcf7-recaptcha|google-recaptcha|wp-emoji|googletagmanager|google-analytics)[^"']*["'][^>]*>[\s\S]*?<\/script>/gi, '');
       text = text.replace(/<script\b[^>]*type=["']module["'][^>]*>[\s\S]*?<\/script>/gi, '');
