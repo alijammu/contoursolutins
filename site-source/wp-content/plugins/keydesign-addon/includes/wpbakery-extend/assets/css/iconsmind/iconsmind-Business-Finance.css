@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'iconsmind-Business-Finance';
+  src: url('fonts/Business-Finance.woff') format('woff'),
+       url('fonts/Business-Finance.ttf') format('truetype');
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.iconsmind-Business-Finance[class^="iconsmind-"], .iconsmind-Business-Finance[class*=" iconsmind-"] {
+  font-family: 'iconsmind-Business-Finance' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.iconsmind-AMX:before { content: "\e900"!important; }
+.iconsmind-ATM:before { content: "\e901"!important; }
+.iconsmind-Bar-Chart:before { content: "\e902"!important; }
+.iconsmind-Bar-Chart2:before { content: "\e903"!important; }
+.iconsmind-Bar-Chart3:before { content: "\e904"!important; }
+.iconsmind-Bar-Chart4:before { content: "\e905"!important; }
+.iconsmind-Bar-Chart5:before { content: "\e906"!important; }
+.iconsmind-Calculator:before { content: "\e907"!important; }
+.iconsmind-Calculator-2:before { content: "\e908"!important; }
+.iconsmind-Calculator-3:before { content: "\e909"!important; }
+.iconsmind-Calendar:before { content: "\e90a"!important; }
+.iconsmind-Calendar-2:before { content: "\e90b"!important; }
+.iconsmind-Calendar-3:before { content: "\e90c"!important; }
+.iconsmind-Calendar-4:before { content: "\e90d"!important; }
+.iconsmind-Claps:before { content: "\e90e"!important; }
+.iconsmind-Coin:before { content: "\e90f"!important; }
+.iconsmind-Coins-3:before { content: "\e910"!important; }
+.iconsmind-Credit-Card:before { content: "\e911"!important; }
+.iconsmind-Credit-Card2:before { content: "\e912"!important; }
+.iconsmind-Credit-Card3:before { content: "\e913"!important; }
+.iconsmind-Diamond:before { content: "\e914"!important; }
+.iconsmind-Dollar:before { content: "\e915"!important; }
+.iconsmind-Dollar-Sign:before { content: "\e916"!important; }
+.iconsmind-Dollar-Sign2:before { content: "\e917"!important; }
+.iconsmind-Euro:before { content: "\e918"!important; }
+.iconsmind-Euro-Sign:before { content: "\e919"!important; }
+.iconsmind-Euro-Sign2:before { content: "\e91a"!important; }
+.iconsmind-Financial:before { content: "\e91b"!important; }
+.iconsmind-Handshake:before { content: "\e91c"!important; }
+.iconsmind-Line-Chart:before { content: "\e91d"!important; }
+.iconsmind-Line-Chart2:before { content: "\e91e"!important; }
+.iconsmind-Line-Chart3:before { content: "\e91f"!important; }
+.iconsmind-Master-Card:before { content: "\e920"!important; }
+.iconsmind-Money:before { content: "\e921"!important; }
+.iconsmind-Money-2:before { content: "\e922"!important; }
+.iconsmind-Money-Bag:before { content: "\e923"!important; }
+.iconsmind-Pie-Chart:before { content: "\e924"!important; }
+.iconsmind-Pie-Chart2:before { content: "\e925"!important; }
+.iconsmind-Pie-Chart3:before { content: "\e926"!important; }
+.iconsmind-Pound:before { content: "\e927"!important; }
+.iconsmind-Pound-Sign:before { content: "\e928"!important; }
+.iconsmind-Pound-Sign2:before { content: "\e929"!important; }
+.iconsmind-Safe-Box:before { content: "\e92a"!important; }
+.iconsmind-Token:before { content: "\e92b"!important; }
+.iconsmind-Visa:before { content: "\e92c"!important; }
+.iconsmind-Wallet:before { content: "\e92d"!important; }
+.iconsmind-Wallet-2:before { content: "\e92e"!important; }

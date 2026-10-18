@@ -1,0 +1,14 @@
+node_modules/
+data/
+*.zip
+deploy/
+/archive/
+/dist/
+/screenshots/
+/reference-home.html
+/browser-check.json
+/capture-report.json
+/link-check.json
+.env
+.env.*
+!.env.example

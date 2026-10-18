@@ -1,0 +1,3616 @@
+{
+  "capturedAt": "2026-10-13T02:04:58.728Z",
+  "origin": "https://htechsupports.com",
+  "records": [
+    {
+      "url": "https://htechsupports.com/",
+      "file": "index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 183559
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/contact-form-7/includes/css/styles.css",
+      "file": "wp-content/plugins/contact-form-7/includes/css/styles.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 2947
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/core/assets/css/bootstrap.min.css",
+      "file": "wp-content/themes/sway/core/assets/css/bootstrap.min.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 104588
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/style.css",
+      "file": "wp-content/themes/sway/style.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 284949
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/css/kd_vc_front.css",
+      "file": "wp-content/plugins/keydesign-addon/assets/css/kd_vc_front.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 294835
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/redux-framework/redux-core/inc/extensions/social_profiles/social_profiles/css/field_social_profiles_frontend.css",
+      "file": "wp-content/plugins/redux-framework/redux-core/inc/extensions/social_profiles/social_profiles/css/field_social_profiles_frontend.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 192
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css",
+      "file": "wp-content/plugins/js_composer/assets/css/js_composer.min.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 464879
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/css/font-awesome.min.css",
+      "file": "wp-content/plugins/keydesign-addon/assets/css/font-awesome.min.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 102097
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/redux-framework/redux-core/assets/font-awesome/css/v4-shims.css",
+      "file": "wp-content/plugins/redux-framework/redux-core/assets/font-awesome/css/v4-shims.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 38514
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js",
+      "file": "wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 21391
+    },
+    {
+      "url": "https://htechsupports.com/wp-includes/js/jquery/jquery.min.js",
+      "file": "wp-includes/js/jquery/jquery.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 87553
+    },
+    {
+      "url": "https://htechsupports.com/wp-includes/js/jquery/jquery-migrate.min.js",
+      "file": "wp-includes/js/jquery/jquery-migrate.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 13577
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/js/owl.carousel.min.js",
+      "file": "wp-content/plugins/keydesign-addon/assets/js/owl.carousel.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 42774
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/js/kd_addon_script.js",
+      "file": "wp-content/plugins/keydesign-addon/assets/js/kd_addon_script.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 21557
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/cropped-PNG-32x32.png",
+      "file": "wp-content/uploads/2024/04/cropped-PNG-32x32.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 1572
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/cropped-PNG-192x192.png",
+      "file": "wp-content/uploads/2024/04/cropped-PNG-192x192.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 11805
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/cropped-PNG-180x180.png",
+      "file": "wp-content/uploads/2024/04/cropped-PNG-180x180.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 10242
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/cropped-PNG-270x270.png",
+      "file": "wp-content/uploads/2024/04/cropped-PNG-270x270.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 16497
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/startupfff8.png",
+      "file": "wp-content/uploads/2024/05/startupfff8.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 172982
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/User-Interface.woff",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/User-Interface.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 23468
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-User-Interface.css",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-User-Interface.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 3037
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Communications-Network.woff",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Communications-Network.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 12496
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Communications-Network.css",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Communications-Network.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 1896
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Database.woff",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Database.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 15676
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Database.css",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Database.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 2362
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Hardware.woff",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Hardware.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 21044
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Hardware.css",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Hardware.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 2972
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Shopping-E-commerce.woff",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Shopping-E-commerce.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 20504
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Shopping-E-commerce.css",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Shopping-E-commerce.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 3252
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Buildings-Landmarks.woff",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Buildings-Landmarks.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 28900
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Buildings-Landmarks.css",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Buildings-Landmarks.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 4070
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/css/rs6.css",
+      "file": "wp-content/plugins/revslider/public/assets/css/rs6.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 58327
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/PNG.png",
+      "file": "wp-content/uploads/2024/04/PNG.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 280017
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/white.png",
+      "file": "wp-content/uploads/2024/04/white.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 179333
+    },
+    {
+      "url": "https://htechsupports.com/pages/company/",
+      "file": "pages/company/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 170800
+    },
+    {
+      "url": "https://htechsupports.com/pages/services/",
+      "file": "pages/services/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 150299
+    },
+    {
+      "url": "https://htechsupports.com/pages/professional-service/",
+      "file": "pages/professional-service/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 145852
+    },
+    {
+      "url": "https://htechsupports.com/pages/wireless-survey/",
+      "file": "pages/wireless-survey/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 147179
+    },
+    {
+      "url": "https://htechsupports.com/pages/network-support/",
+      "file": "pages/network-support/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 148893
+    },
+    {
+      "url": "https://htechsupports.com/pages/structured-cabling/",
+      "file": "pages/structured-cabling/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 147746
+    },
+    {
+      "url": "https://htechsupports.com/pages/end-user-computing-support/",
+      "file": "pages/end-user-computing-support/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 145240
+    },
+    {
+      "url": "https://htechsupports.com/pages/itad-it-asset-disposal/",
+      "file": "pages/itad-it-asset-disposal/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 147263
+    },
+    {
+      "url": "https://htechsupports.com/pages/staff-augmentation/",
+      "file": "pages/staff-augmentation/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 145209
+    },
+    {
+      "url": "https://htechsupports.com/pages/sectors/",
+      "file": "pages/sectors/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 148973
+    },
+    {
+      "url": "https://htechsupports.com/pages/retail/",
+      "file": "pages/retail/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 141227
+    },
+    {
+      "url": "https://htechsupports.com/pages/enterprise/",
+      "file": "pages/enterprise/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 141456
+    },
+    {
+      "url": "https://htechsupports.com/pages/data-center/",
+      "file": "pages/data-center/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 141142
+    },
+    {
+      "url": "https://htechsupports.com/pages/carrier-network/",
+      "file": "pages/carrier-network/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 141401
+    },
+    {
+      "url": "https://htechsupports.com/pages/manufacturing/",
+      "file": "pages/manufacturing/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 141709
+    },
+    {
+      "url": "https://htechsupports.com/pages/government/",
+      "file": "pages/government/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 141395
+    },
+    {
+      "url": "https://htechsupports.com/resources/",
+      "file": "resources/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 153907
+    },
+    {
+      "url": "https://htechsupports.com/blog-2/",
+      "file": "blog-2/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 148763
+    },
+    {
+      "url": "https://htechsupports.com/pages/careers/",
+      "file": "pages/careers/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 145013
+    },
+    {
+      "url": "https://htechsupports.com/pages/contact-creative/",
+      "file": "pages/contact-creative/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 146278
+    },
+    {
+      "url": "https://htechsupports.com/pages/engineer/",
+      "file": "pages/engineer/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 152918
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/startup33.png",
+      "file": "wp-content/uploads/2024/04/startup33.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 222888
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/startup33-209x300.png",
+      "file": "wp-content/uploads/2024/04/startup33-209x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 84814
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/startup3a.png",
+      "file": "wp-content/uploads/2024/04/startup3a.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 326258
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/startup3a-209x300.png",
+      "file": "wp-content/uploads/2024/04/startup3a-209x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 112239
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/07/map.jpg",
+      "file": "wp-content/uploads/2024/07/map.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 88702
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/07/map-300x150.jpg",
+      "file": "wp-content/uploads/2024/07/map-300x150.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 7955
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/07/map-1024x512.jpg",
+      "file": "wp-content/uploads/2024/07/map-1024x512.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 36324
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/07/map-768x384.jpg",
+      "file": "wp-content/uploads/2024/07/map-768x384.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 25518
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/351.png",
+      "file": "wp-content/uploads/2024/04/351.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 6295
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/351-300x300.png",
+      "file": "wp-content/uploads/2024/04/351-300x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 13234
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/351-150x150.png",
+      "file": "wp-content/uploads/2024/04/351-150x150.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 5163
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/351-320x320.png",
+      "file": "wp-content/uploads/2024/04/351-320x320.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 14665
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/36.png",
+      "file": "wp-content/uploads/2024/04/36.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 3020
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/36-300x300.png",
+      "file": "wp-content/uploads/2024/04/36-300x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 7233
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/36-150x150.png",
+      "file": "wp-content/uploads/2024/04/36-150x150.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 3451
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/36-320x320.png",
+      "file": "wp-content/uploads/2024/04/36-320x320.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 8045
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/34.png",
+      "file": "wp-content/uploads/2024/04/34.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 38069
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/34-300x130.png",
+      "file": "wp-content/uploads/2024/04/34-300x130.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 16515
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/34-768x333.png",
+      "file": "wp-content/uploads/2024/04/34-768x333.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 54486
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/34-800x346.png",
+      "file": "wp-content/uploads/2024/04/34-800x346.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 57590
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/33.png",
+      "file": "wp-content/uploads/2024/04/33.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 172822
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/33-300x300.png",
+      "file": "wp-content/uploads/2024/04/33-300x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 16492
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/33-1024x1024.png",
+      "file": "wp-content/uploads/2024/04/33-1024x1024.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 75063
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/33-150x150.png",
+      "file": "wp-content/uploads/2024/04/33-150x150.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 7514
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/33-768x768.png",
+      "file": "wp-content/uploads/2024/04/33-768x768.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 52565
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/33-1536x1536.png",
+      "file": "wp-content/uploads/2024/04/33-1536x1536.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 126684
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/33-2048x2048.png",
+      "file": "wp-content/uploads/2024/04/33-2048x2048.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 186270
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/33-320x320.png",
+      "file": "wp-content/uploads/2024/04/33-320x320.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 18353
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/33-800x800.png",
+      "file": "wp-content/uploads/2024/04/33-800x800.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 49718
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/32.jpg",
+      "file": "wp-content/uploads/2024/04/32.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 7495
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/32-300x279.jpg",
+      "file": "wp-content/uploads/2024/04/32-300x279.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 7937
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/31.png",
+      "file": "wp-content/uploads/2024/04/31.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 25148
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/31-300x79.png",
+      "file": "wp-content/uploads/2024/04/31-300x79.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 12581
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/30.jpg",
+      "file": "wp-content/uploads/2024/04/30.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 232134
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/30-300x150.jpg",
+      "file": "wp-content/uploads/2024/04/30-300x150.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 7822
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/30-1024x512.jpg",
+      "file": "wp-content/uploads/2024/04/30-1024x512.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 36290
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/30-768x384.jpg",
+      "file": "wp-content/uploads/2024/04/30-768x384.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 24272
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/30-1536x768.jpg",
+      "file": "wp-content/uploads/2024/04/30-1536x768.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 60078
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/30-2048x1024.jpg",
+      "file": "wp-content/uploads/2024/04/30-2048x1024.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 88717
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/30-800x400.jpg",
+      "file": "wp-content/uploads/2024/04/30-800x400.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 26421
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/29.png",
+      "file": "wp-content/uploads/2024/04/29.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 32545
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/29-300x244.png",
+      "file": "wp-content/uploads/2024/04/29-300x244.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 14757
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/28.jpg",
+      "file": "wp-content/uploads/2024/04/28.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 61180
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/28-300x158.jpg",
+      "file": "wp-content/uploads/2024/04/28-300x158.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 4102
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/28-1024x538.jpg",
+      "file": "wp-content/uploads/2024/04/28-1024x538.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 20909
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/28-768x403.jpg",
+      "file": "wp-content/uploads/2024/04/28-768x403.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 13709
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/28-800x420.jpg",
+      "file": "wp-content/uploads/2024/04/28-800x420.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 14416
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/27.png",
+      "file": "wp-content/uploads/2024/04/27.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 70658
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/27-300x300.png",
+      "file": "wp-content/uploads/2024/04/27-300x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 6011
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/27-1024x1024.png",
+      "file": "wp-content/uploads/2024/04/27-1024x1024.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 30193
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/27-150x150.png",
+      "file": "wp-content/uploads/2024/04/27-150x150.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 3053
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/27-768x768.png",
+      "file": "wp-content/uploads/2024/04/27-768x768.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 19593
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/27-1536x1536.png",
+      "file": "wp-content/uploads/2024/04/27-1536x1536.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 51307
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/27-2048x2048.png",
+      "file": "wp-content/uploads/2024/04/27-2048x2048.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 74407
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/27-320x320.png",
+      "file": "wp-content/uploads/2024/04/27-320x320.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 6749
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/27-800x800.png",
+      "file": "wp-content/uploads/2024/04/27-800x800.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 17327
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/26.png",
+      "file": "wp-content/uploads/2024/04/26.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 3544
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/26-300x85.png",
+      "file": "wp-content/uploads/2024/04/26-300x85.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 13313
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/25.png",
+      "file": "wp-content/uploads/2024/04/25.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 20989
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/24.png",
+      "file": "wp-content/uploads/2024/04/24.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 4369
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/24-300x300.png",
+      "file": "wp-content/uploads/2024/04/24-300x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 4406
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/24-150x150.png",
+      "file": "wp-content/uploads/2024/04/24-150x150.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 2143
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/24-320x320.png",
+      "file": "wp-content/uploads/2024/04/24-320x320.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 4726
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/23.jpg",
+      "file": "wp-content/uploads/2024/04/23.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 42158
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/23-300x162.jpg",
+      "file": "wp-content/uploads/2024/04/23-300x162.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 5307
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/23-768x415.jpg",
+      "file": "wp-content/uploads/2024/04/23-768x415.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 16229
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/23-800x432.jpg",
+      "file": "wp-content/uploads/2024/04/23-800x432.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 17615
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/22.png",
+      "file": "wp-content/uploads/2024/04/22.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 16527
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/22-300x214.png",
+      "file": "wp-content/uploads/2024/04/22-300x214.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 17241
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/21.png",
+      "file": "wp-content/uploads/2024/04/21.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 143746
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/21-300x181.png",
+      "file": "wp-content/uploads/2024/04/21-300x181.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 29939
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/21-1024x618.png",
+      "file": "wp-content/uploads/2024/04/21-1024x618.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 149338
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/21-768x464.png",
+      "file": "wp-content/uploads/2024/04/21-768x464.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 101320
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/21-800x483.png",
+      "file": "wp-content/uploads/2024/04/21-800x483.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 108425
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/008.jpg",
+      "file": "wp-content/uploads/2024/04/008.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 30902
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/008-300x152.jpg",
+      "file": "wp-content/uploads/2024/04/008-300x152.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 7106
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/07.jpg",
+      "file": "wp-content/uploads/2024/04/07.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 40881
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/07-300x169.jpg",
+      "file": "wp-content/uploads/2024/04/07-300x169.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 5363
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/07-1024x576.jpg",
+      "file": "wp-content/uploads/2024/04/07-1024x576.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 27802
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/07-768x432.jpg",
+      "file": "wp-content/uploads/2024/04/07-768x432.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 18040
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/07-800x450.jpg",
+      "file": "wp-content/uploads/2024/04/07-800x450.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 19716
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/01.png",
+      "file": "wp-content/uploads/2024/04/01.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 8016
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/06.jpg",
+      "file": "wp-content/uploads/2024/04/06.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 43528
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/06-300x158.jpg",
+      "file": "wp-content/uploads/2024/04/06-300x158.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 8039
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/06-1024x539.jpg",
+      "file": "wp-content/uploads/2024/04/06-1024x539.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 30199
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/06-768x404.jpg",
+      "file": "wp-content/uploads/2024/04/06-768x404.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 21584
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/06-800x421.jpg",
+      "file": "wp-content/uploads/2024/04/06-800x421.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 22699
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/005.jpg",
+      "file": "wp-content/uploads/2024/04/005.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 45307
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/005-300x150.jpg",
+      "file": "wp-content/uploads/2024/04/005-300x150.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 6575
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/005-768x384.jpg",
+      "file": "wp-content/uploads/2024/04/005-768x384.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 22333
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/005-800x400.jpg",
+      "file": "wp-content/uploads/2024/04/005-800x400.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 23505
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/03.png",
+      "file": "wp-content/uploads/2024/04/03.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 17247
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/04/02.png",
+      "file": "wp-content/uploads/2024/04/02.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 8027
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/10/google.png",
+      "file": "wp-content/uploads/2024/10/google.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 11572
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/10/app.png",
+      "file": "wp-content/uploads/2024/10/app.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 9293
+    },
+    {
+      "url": "https://htechsupports.com/blog/",
+      "file": "blog/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 132708
+    },
+    {
+      "url": "https://htechsupports.com/pages/terms-and-conditions/",
+      "file": "pages/terms-and-conditions/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 141041
+    },
+    {
+      "url": "https://htechsupports.com/pages/privacy-policy/",
+      "file": "pages/privacy-policy/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 146160
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+      "file": "wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml",
+      "bytes": 2339
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg",
+      "file": "wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml",
+      "bytes": 1345
+    },
+    {
+      "url": "https://htechsupports.com/wp-includes/js/dist/hooks.min.js",
+      "file": "wp-includes/js/dist/hooks.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 5661
+    },
+    {
+      "url": "https://htechsupports.com/wp-includes/js/dist/i18n.min.js",
+      "file": "wp-includes/js/dist/i18n.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 5314
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js",
+      "file": "wp-content/plugins/contact-form-7/includes/swv/js/index.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 12512
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/contact-form-7/includes/js/index.js",
+      "file": "wp-content/plugins/contact-form-7/includes/js/index.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 13452
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js",
+      "file": "wp-content/plugins/revslider/public/assets/js/rbtools.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 165339
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js",
+      "file": "wp-content/plugins/revslider/public/assets/js/rs6.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 410361
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/core/assets/js/bootstrap.min.js",
+      "file": "wp-content/themes/sway/core/assets/js/bootstrap.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 39687
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/core/assets/js/SmoothScroll.js",
+      "file": "wp-content/themes/sway/core/assets/js/SmoothScroll.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 7234
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/core/assets/js/scripts.js",
+      "file": "wp-content/themes/sway/core/assets/js/scripts.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 27171
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js",
+      "file": "wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 20757
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js",
+      "file": "wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 9237
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/wpcf7-recaptcha/assets/js/wpcf7-recaptcha-controls.js",
+      "file": "wp-content/plugins/wpcf7-recaptcha/assets/js/wpcf7-recaptcha-controls.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 2000
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api.js",
+      "file": "external/www.google.com/recaptcha/api.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/javascript; charset=utf-8",
+      "bytes": 976
+    },
+    {
+      "url": "https://htechsupports.com/wp-includes/js/wp-emoji-release.min.js",
+      "file": "wp-includes/js/wp-emoji-release.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 22762
+    },
+    {
+      "url": "https://htechsupports.com/wp-includes/js/wp-emoji-loader.min.js",
+      "file": "wp-includes/js/wp-emoji-loader.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 2977
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/css/fonts/fa-brands-400.woff2",
+      "file": "wp-content/plugins/keydesign-addon/assets/css/fonts/fa-brands-400.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2",
+      "bytes": 109808
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/css/fonts/fa-brands-400.ttf",
+      "file": "wp-content/plugins/keydesign-addon/assets/css/fonts/fa-brands-400.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 189684
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/css/fonts/fa-regular-400.woff2",
+      "file": "wp-content/plugins/keydesign-addon/assets/css/fonts/fa-regular-400.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2",
+      "bytes": 24488
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/css/fonts/fa-regular-400.ttf",
+      "file": "wp-content/plugins/keydesign-addon/assets/css/fonts/fa-regular-400.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 63348
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/css/fonts/fa-solid-900.woff2",
+      "file": "wp-content/plugins/keydesign-addon/assets/css/fonts/fa-solid-900.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2",
+      "bytes": 150020
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/css/fonts/fa-solid-900.ttf",
+      "file": "wp-content/plugins/keydesign-addon/assets/css/fonts/fa-solid-900.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 394668
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/css/fonts/fa-v4compatibility.woff2",
+      "file": "wp-content/plugins/keydesign-addon/assets/css/fonts/fa-v4compatibility.woff2",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "font/woff2",
+      "bytes": 4568
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/css/fonts/fa-v4compatibility.ttf",
+      "file": "wp-content/plugins/keydesign-addon/assets/css/fonts/fa-v4compatibility.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 10172
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/img/share.png",
+      "file": "wp-content/plugins/keydesign-addon/assets/img/share.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 318
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/img/long-shadow.png",
+      "file": "wp-content/plugins/keydesign-addon/assets/img/long-shadow.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 6840
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/img/section-bg.jpg",
+      "file": "wp-content/plugins/keydesign-addon/assets/img/section-bg.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 46084
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/img/dots.svg",
+      "file": "wp-content/plugins/keydesign-addon/assets/img/dots.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml",
+      "bytes": 327
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/img/scroll-down.svg",
+      "file": "wp-content/plugins/keydesign-addon/assets/img/scroll-down.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml",
+      "bytes": 1810
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/img/cd-arrows.svg",
+      "file": "wp-content/plugins/keydesign-addon/assets/img/cd-arrows.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml",
+      "bytes": 586
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/core/assets/fonts/sway-font.eot",
+      "file": "wp-content/themes/sway/core/assets/fonts/sway-font.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject",
+      "bytes": 43356
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/core/assets/fonts/sway-font.woff",
+      "file": "wp-content/themes/sway/core/assets/fonts/sway-font.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 43268
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/core/assets/fonts/sway-font.ttf",
+      "file": "wp-content/themes/sway/core/assets/fonts/sway-font.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 43192
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/core/assets/images/icons/select-arrow.png",
+      "file": "wp-content/themes/sway/core/assets/images/icons/select-arrow.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 1094
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/core/assets/images/contact-loader.svg",
+      "file": "wp-content/themes/sway/core/assets/images/contact-loader.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml",
+      "bytes": 1510
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/vc/alert.png",
+      "file": "wp-content/plugins/js_composer/assets/vc/alert.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 302
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/vc/info.png",
+      "file": "wp-content/plugins/js_composer/assets/vc/info.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 323
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/vc/tick.png",
+      "file": "wp-content/plugins/js_composer/assets/vc/tick.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 244
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/vc/exclamation.png",
+      "file": "wp-content/plugins/js_composer/assets/vc/exclamation.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 495
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/address-book.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/address-book.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 712
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 841
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/anchor.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/anchor.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 694
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/application-image.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/application-image.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 544
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/arrow.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/arrow.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 590
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/asterisk.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/asterisk.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 682
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 705
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/balloon.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/balloon.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 674
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 717
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 691
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 700
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/battery-full.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/battery-full.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 648
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/binocular.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/binocular.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 621
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 688
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 700
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 647
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 763
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 690
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 709
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 691
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/bookmark.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/bookmark.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 635
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/camcorder.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/camcorder.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 590
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/camera.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/camera.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 635
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/chart.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/chart.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 659
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/chart-pie.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 1686
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/clock.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/clock.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 706
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/control.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/control.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 470
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/fire.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/fire.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 606
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/heart.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/heart.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 792
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/mail.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/mail.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 505
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/plus-shield.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 756
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/icons/video.png",
+      "file": "wp-content/plugins/js_composer/assets/images/icons/video.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 657
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.eot",
+      "file": "wp-content/plugins/js_composer/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject",
+      "bytes": 10072
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.ttf",
+      "file": "wp-content/plugins/js_composer/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 9868
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.woff",
+      "file": "wp-content/plugins/js_composer/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 9944
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.svg",
+      "file": "wp-content/plugins/js_composer/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml",
+      "bytes": 33649
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/toggle_open.png",
+      "file": "wp-content/plugins/js_composer/assets/images/toggle_open.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 223
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/toggle_close.png",
+      "file": "wp-content/plugins/js_composer/assets/images/toggle_close.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 168
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/flickr.png",
+      "file": "wp-content/plugins/js_composer/assets/images/flickr.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 198
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/vc/blur.svg",
+      "file": "wp-content/plugins/js_composer/assets/vc/blur.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml",
+      "bytes": 126
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot",
+      "file": "wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject",
+      "bytes": 6024
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff",
+      "file": "wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 5924
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf",
+      "file": "wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 5848
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg",
+      "file": "wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml",
+      "bytes": 13215
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/images/spinner.gif",
+      "file": "wp-content/plugins/js_composer/assets/images/spinner.gif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/gif",
+      "bytes": 673
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/vc/remove.png",
+      "file": "wp-content/plugins/js_composer/assets/vc/remove.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 265
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/User-Interface.ttf",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/User-Interface.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 23392
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Database.ttf",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Database.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 15600
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Communications-Network.ttf",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Communications-Network.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 12420
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Hardware.ttf",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Hardware.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 20968
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Shopping-E-commerce.ttf",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Shopping-E-commerce.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 20428
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Buildings-Landmarks.ttf",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Buildings-Landmarks.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 28824
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/11/pricing-classic.jpg",
+      "file": "wp-content/uploads/2020/11/pricing-classic.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 41961
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Bodypart.woff",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Bodypart.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 27624
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Bodypart.css",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Bodypart.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 2744
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Objects.woff",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Objects.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 33856
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Objects.css",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Objects.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 4708
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/11/contact-classic.jpg",
+      "file": "wp-content/uploads/2020/11/contact-classic.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 68296
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/startup2.jpg",
+      "file": "wp-content/uploads/2024/05/startup2.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 50301
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/startup2-247x300.jpg",
+      "file": "wp-content/uploads/2024/05/startup2-247x300.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 23796
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/business-5.png",
+      "file": "wp-content/uploads/2024/05/business-5.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 259267
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/business-5-255x300.png",
+      "file": "wp-content/uploads/2024/05/business-5-255x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 115721
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/360_F_219978944_Q0f2jy0m9RwbIMNqIgEVRGJXdS2DwfbD.jpg",
+      "file": "wp-content/uploads/2024/06/360_F_219978944_Q0f2jy0m9RwbIMNqIgEVRGJXdS2DwfbD.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 33297
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/360_F_219978944_Q0f2jy0m9RwbIMNqIgEVRGJXdS2DwfbD-300x200.jpg",
+      "file": "wp-content/uploads/2024/06/360_F_219978944_Q0f2jy0m9RwbIMNqIgEVRGJXdS2DwfbD-300x200.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 9118
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/07/service_industry_association_logo-150x150.jpeg",
+      "file": "wp-content/uploads/2024/07/service_industry_association_logo-150x150.jpeg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 6788
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/07/ascdi_logo-150x150.jpeg",
+      "file": "wp-content/uploads/2024/07/ascdi_logo-150x150.jpeg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 5981
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/07/file-300x200.jpg",
+      "file": "wp-content/uploads/2024/07/file-300x200.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 6532
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/07/file.jpg",
+      "file": "wp-content/uploads/2024/07/file.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 12115
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/07/2017_Ekahau_logo_black-640x360-1-300x169.png",
+      "file": "wp-content/uploads/2024/07/2017_Ekahau_logo_black-640x360-1-300x169.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 16579
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/07/2017_Ekahau_logo_black-640x360-1.png",
+      "file": "wp-content/uploads/2024/07/2017_Ekahau_logo_black-640x360-1.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 11374
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/Las-tendencias-del-Internet-de-las-Cosas-IoT.webp",
+      "file": "wp-content/uploads/2024/05/Las-tendencias-del-Internet-de-las-Cosas-IoT.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 1308664
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/gg.png",
+      "file": "wp-content/uploads/2024/05/gg.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 309175
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/gg-247x300.png",
+      "file": "wp-content/uploads/2024/05/gg-247x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 147923
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/ww.png",
+      "file": "wp-content/uploads/2024/05/ww.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 221979
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/ww-285x300.png",
+      "file": "wp-content/uploads/2024/05/ww-285x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 133896
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot",
+      "file": "wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/vnd.ms-fontobject",
+      "bytes": 12136
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff",
+      "file": "wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 7536
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf",
+      "file": "wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 11968
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg",
+      "file": "wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml",
+      "bytes": 13691
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/assets/gridtile.png",
+      "file": "wp-content/plugins/revslider/public/assets/assets/gridtile.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 70
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png",
+      "file": "wp-content/plugins/revslider/public/assets/assets/gridtile_white.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 70
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png",
+      "file": "wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 70
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png",
+      "file": "wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 71
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png",
+      "file": "wp-content/plugins/revslider/public/assets/assets/coloredbg.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 90
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/revslider/public/assets/assets/loader.gif",
+      "file": "wp-content/plugins/revslider/public/assets/assets/loader.gif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/gif",
+      "bytes": 2545
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/css/photoswipe.css",
+      "file": "wp-content/plugins/keydesign-addon/assets/css/photoswipe.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 15784
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/35251012_businessman-and-abstract-infographics-in-augmented-reality.webp",
+      "file": "wp-content/uploads/2024/05/35251012_businessman-and-abstract-infographics-in-augmented-reality.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 63724
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/Professional-Service-Trends-to-Look-Out-for-in-2021-1-1024x592.jpg",
+      "file": "wp-content/uploads/2024/06/Professional-Service-Trends-to-Look-Out-for-in-2021-1-1024x592.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 77435
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/Professional-Service-Trends-to-Look-Out-for-in-2021-1.jpg",
+      "file": "wp-content/uploads/2024/06/Professional-Service-Trends-to-Look-Out-for-in-2021-1.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 730080
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/Professional-Service-Trends-to-Look-Out-for-in-2021-1-300x173.jpg",
+      "file": "wp-content/uploads/2024/06/Professional-Service-Trends-to-Look-Out-for-in-2021-1-300x173.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 12698
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/Professional-Service-Trends-to-Look-Out-for-in-2021-1-768x444.jpg",
+      "file": "wp-content/uploads/2024/06/Professional-Service-Trends-to-Look-Out-for-in-2021-1-768x444.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 51023
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/Professional-Service-Trends-to-Look-Out-for-in-2021-1-1536x888.jpg",
+      "file": "wp-content/uploads/2024/06/Professional-Service-Trends-to-Look-Out-for-in-2021-1-1536x888.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 139138
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/improve-a-corporate-wifi-network-1-1024x576.webp",
+      "file": "wp-content/uploads/2024/06/improve-a-corporate-wifi-network-1-1024x576.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 34646
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/improve-a-corporate-wifi-network-1.webp",
+      "file": "wp-content/uploads/2024/06/improve-a-corporate-wifi-network-1.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 21326
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/improve-a-corporate-wifi-network-1-300x169.webp",
+      "file": "wp-content/uploads/2024/06/improve-a-corporate-wifi-network-1-300x169.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 8782
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/improve-a-corporate-wifi-network-1-768x432.webp",
+      "file": "wp-content/uploads/2024/06/improve-a-corporate-wifi-network-1-768x432.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 25028
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/Network-Support-Services.webp",
+      "file": "wp-content/uploads/2024/06/Network-Support-Services.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 32962
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/Network-Support-Services-300x168.webp",
+      "file": "wp-content/uploads/2024/06/Network-Support-Services-300x168.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 8048
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/Cable-04.jpg",
+      "file": "wp-content/uploads/2024/06/Cable-04.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 106864
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/Cable-04-300x180.jpg",
+      "file": "wp-content/uploads/2024/06/Cable-04-300x180.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 17290
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/Cable-04-768x460.jpg",
+      "file": "wp-content/uploads/2024/06/Cable-04-768x460.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 66824
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/shutterstock_1099878668_low-1024x684.jpg",
+      "file": "wp-content/uploads/2024/06/shutterstock_1099878668_low-1024x684.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 79108
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/shutterstock_1099878668_low.jpg",
+      "file": "wp-content/uploads/2024/06/shutterstock_1099878668_low.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 224921
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/shutterstock_1099878668_low-300x200.jpg",
+      "file": "wp-content/uploads/2024/06/shutterstock_1099878668_low-300x200.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 13578
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/shutterstock_1099878668_low-768x513.jpg",
+      "file": "wp-content/uploads/2024/06/shutterstock_1099878668_low-768x513.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 52323
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/shutterstock_1099878668_low-1536x1025.jpg",
+      "file": "wp-content/uploads/2024/06/shutterstock_1099878668_low-1536x1025.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 145886
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/Wisetek_Banner.webp",
+      "file": "wp-content/uploads/2024/06/Wisetek_Banner.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 27056
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/Wisetek_Banner-300x202.webp",
+      "file": "wp-content/uploads/2024/06/Wisetek_Banner-300x202.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 9302
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/staff-augmentation-1.jpg",
+      "file": "wp-content/uploads/2024/06/staff-augmentation-1.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 26925
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/staff-augmentation-1-300x175.jpg",
+      "file": "wp-content/uploads/2024/06/staff-augmentation-1-300x175.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 7289
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/staff-augmentation-1-768x449.jpg",
+      "file": "wp-content/uploads/2024/06/staff-augmentation-1-768x449.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 26077
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/75943844_m_normal_none.jpg",
+      "file": "wp-content/uploads/2024/06/75943844_m_normal_none.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 196958
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/hhh.jpg",
+      "file": "wp-content/uploads/2024/05/hhh.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 25721
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/hhh-247x300.jpg",
+      "file": "wp-content/uploads/2024/05/hhh-247x300.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 12116
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/it.png",
+      "file": "wp-content/uploads/2024/05/it.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 206141
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/it-285x300.png",
+      "file": "wp-content/uploads/2024/05/it-285x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 128715
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/deskk.jpg",
+      "file": "wp-content/uploads/2024/05/deskk.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 33229
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/deskk-247x300.jpg",
+      "file": "wp-content/uploads/2024/05/deskk-247x300.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 14722
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/desk.png",
+      "file": "wp-content/uploads/2024/05/desk.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 238314
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/desk-285x300.png",
+      "file": "wp-content/uploads/2024/05/desk-285x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 148612
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/staff_augmentation_in_software_development_featured_image_ce23daf8a3.webp",
+      "file": "wp-content/uploads/2024/06/staff_augmentation_in_software_development_featured_image_ce23daf8a3.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 34750
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/glob.jpg",
+      "file": "wp-content/uploads/2024/05/glob.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 31542
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/glob-247x300.jpg",
+      "file": "wp-content/uploads/2024/05/glob-247x300.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 13028
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/bhh.png",
+      "file": "wp-content/uploads/2024/05/bhh.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 229616
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/bhh-285x300.png",
+      "file": "wp-content/uploads/2024/05/bhh-285x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 138377
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/WFHT-Business-wifi-main-slider-image-scaled-1.jpg",
+      "file": "wp-content/uploads/2024/06/WFHT-Business-wifi-main-slider-image-scaled-1.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 102130
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/wire.jpg",
+      "file": "wp-content/uploads/2024/06/wire.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 47455
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/wire-247x300.jpg",
+      "file": "wp-content/uploads/2024/06/wire-247x300.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 18573
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/startupfff8-285x300.png",
+      "file": "wp-content/uploads/2024/05/startupfff8-285x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 122491
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/resources_technical_support_banner_2017_v1.jpg",
+      "file": "wp-content/uploads/2024/06/resources_technical_support_banner_2017_v1.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 652280
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/wq-1024x683.jpg",
+      "file": "wp-content/uploads/2024/06/wq-1024x683.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 60548
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/wq.jpg",
+      "file": "wp-content/uploads/2024/06/wq.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 115820
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/wq-300x200.jpg",
+      "file": "wp-content/uploads/2024/06/wq-300x200.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 9306
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/wq-768x512.jpg",
+      "file": "wp-content/uploads/2024/06/wq-768x512.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 38459
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/it-consulting-team.webp",
+      "file": "wp-content/uploads/2024/06/it-consulting-team.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 71488
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/it-consulting-team-300x199.webp",
+      "file": "wp-content/uploads/2024/06/it-consulting-team-300x199.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 10998
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/it-consulting-team-768x509.webp",
+      "file": "wp-content/uploads/2024/06/it-consulting-team-768x509.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 44452
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/tile-007-1960-1024x652.jpg",
+      "file": "wp-content/uploads/2024/06/tile-007-1960-1024x652.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 80973
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/tile-007-1960.jpg",
+      "file": "wp-content/uploads/2024/06/tile-007-1960.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 147784
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/tile-007-1960-300x191.jpg",
+      "file": "wp-content/uploads/2024/06/tile-007-1960-300x191.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 9792
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/tile-007-1960-768x489.jpg",
+      "file": "wp-content/uploads/2024/06/tile-007-1960-768x489.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 48879
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/tile-007-1960-1536x978.jpg",
+      "file": "wp-content/uploads/2024/06/tile-007-1960-1536x978.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 161875
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/shutterstock_1036740940-2048x1107-1-1024x554.jpg",
+      "file": "wp-content/uploads/2024/06/shutterstock_1036740940-2048x1107-1-1024x554.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 103191
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/shutterstock_1036740940-2048x1107-1.jpg",
+      "file": "wp-content/uploads/2024/06/shutterstock_1036740940-2048x1107-1.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 370620
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/shutterstock_1036740940-2048x1107-1-300x162.jpg",
+      "file": "wp-content/uploads/2024/06/shutterstock_1036740940-2048x1107-1-300x162.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 14130
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/shutterstock_1036740940-2048x1107-1-768x415.jpg",
+      "file": "wp-content/uploads/2024/06/shutterstock_1036740940-2048x1107-1-768x415.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 63860
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/shutterstock_1036740940-2048x1107-1-1536x830.jpg",
+      "file": "wp-content/uploads/2024/06/shutterstock_1036740940-2048x1107-1-1536x830.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 186876
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/manufacturing-istock-973143870-1024x650.jpg",
+      "file": "wp-content/uploads/2024/06/manufacturing-istock-973143870-1024x650.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 73757
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/manufacturing-istock-973143870.jpg",
+      "file": "wp-content/uploads/2024/06/manufacturing-istock-973143870.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 134690
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/manufacturing-istock-973143870-300x190.jpg",
+      "file": "wp-content/uploads/2024/06/manufacturing-istock-973143870-300x190.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 12801
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/manufacturing-istock-973143870-768x487.jpg",
+      "file": "wp-content/uploads/2024/06/manufacturing-istock-973143870-768x487.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 48115
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/manufacturing-istock-973143870-1536x974.jpg",
+      "file": "wp-content/uploads/2024/06/manufacturing-istock-973143870-1536x974.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 131877
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/dadd.png",
+      "file": "wp-content/uploads/2024/05/dadd.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 220216
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/dadd-247x300.png",
+      "file": "wp-content/uploads/2024/05/dadd-247x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 125279
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/data.png",
+      "file": "wp-content/uploads/2024/05/data.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 242227
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/data-285x300.png",
+      "file": "wp-content/uploads/2024/05/data-285x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 141784
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/ds_hero_structcab_stock1.jpg",
+      "file": "wp-content/uploads/2024/06/ds_hero_structcab_stock1.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 177768
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/cable.png",
+      "file": "wp-content/uploads/2024/05/cable.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 230968
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/cable-247x300.png",
+      "file": "wp-content/uploads/2024/05/cable-247x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 125532
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/cab.jpg",
+      "file": "wp-content/uploads/2024/06/cab.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 44604
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/cab-285x300.jpg",
+      "file": "wp-content/uploads/2024/06/cab-285x300.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 22248
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/ret.jpg",
+      "file": "wp-content/uploads/2024/05/ret.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 22855
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/ret-247x300.jpg",
+      "file": "wp-content/uploads/2024/05/ret-247x300.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 9819
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/08/Startup5.jpg",
+      "file": "wp-content/uploads/2024/08/Startup5.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 22961
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/08/Startup5-264x300.jpg",
+      "file": "wp-content/uploads/2024/08/Startup5-264x300.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 12625
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/08/Startup4.jpg",
+      "file": "wp-content/uploads/2024/08/Startup4.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 39344
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/08/Startup4-285x300.jpg",
+      "file": "wp-content/uploads/2024/08/Startup4-285x300.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 22066
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/lapto.png",
+      "file": "wp-content/uploads/2024/05/lapto.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 156658
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/lapto-285x300.png",
+      "file": "wp-content/uploads/2024/05/lapto-285x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 111312
+    },
+    {
+      "url": "https://htechsupports.com/wp-includes/blocks/list/style.min.css",
+      "file": "wp-includes/blocks/list/style.min.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 95
+    },
+    {
+      "url": "https://htechsupports.com/wp-includes/blocks/paragraph/style.min.css",
+      "file": "wp-includes/blocks/paragraph/style.min.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 655
+    },
+    {
+      "url": "https://htechsupports.com/the-ultimate-guide-to-choosing-the-right-itsupport-partner-2/",
+      "file": "the-ultimate-guide-to-choosing-the-right-itsupport-partner-2/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 148193
+    },
+    {
+      "url": "https://www.swaytheme.com/wp-content/uploads/sites/3/2020/08/startup-intro.jpg",
+      "file": "external/www.swaytheme.com/wp-content/uploads/sites/3/2020/08/startup-intro.jpg",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://www.swaytheme.com/wp-content/uploads/sites/3/2020/08/circles-shapes.png",
+      "file": "external/www.swaytheme.com/wp-content/uploads/sites/3/2020/08/circles-shapes.png",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css",
+      "file": "external/github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/images/grabbing.png",
+      "file": "wp-content/themes/sway/images/grabbing.png",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/images/arrow-down.png",
+      "file": "wp-content/themes/sway/images/arrow-down.png",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/themes/sway/images/hover-arrow.png",
+      "file": "wp-content/themes/sway/images/hover-arrow.png",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/js/photoswipe.min.js",
+      "file": "wp-content/plugins/keydesign-addon/assets/js/photoswipe.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 44459
+    },
+    {
+      "url": "https://pegasosstudio.com/htechsupports/wp-content/uploads/2024/05/35251012_businessman-and-abstract-infographics-in-augmented-reality.webp",
+      "file": "external/pegasosstudio.com/htechsupports/wp-content/uploads/2024/05/35251012_businessman-and-abstract-infographics-in-augmented-reality.webp",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://pegasosstudio.com/htechsupports/wp-content/uploads/2024/05/1_7KPVLk_kzqxP787yrYT2tg.jpg",
+      "file": "external/pegasosstudio.com/htechsupports/wp-content/uploads/2024/05/1_7KPVLk_kzqxP787yrYT2tg.jpg",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/en.jpg",
+      "file": "wp-content/uploads/2024/05/en.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 35546
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/en-247x300.jpg",
+      "file": "wp-content/uploads/2024/05/en-247x300.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 16810
+    },
+    {
+      "url": "https://pegasosstudio.com/htechsupports/wp-content/uploads/2024/05/Data-Center-header-1.png",
+      "file": "external/pegasosstudio.com/htechsupports/wp-content/uploads/2024/05/Data-Center-header-1.png",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://pegasosstudio.com/htechsupports/wp-content/uploads/2024/05/1695280889652.jpeg",
+      "file": "external/pegasosstudio.com/htechsupports/wp-content/uploads/2024/05/1695280889652.jpeg",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/carii.png",
+      "file": "wp-content/uploads/2024/05/carii.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 202518
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/carii-285x300.png",
+      "file": "wp-content/uploads/2024/05/carii-285x300.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 135328
+    },
+    {
+      "url": "https://pegasosstudio.com/htechsupports/wp-content/uploads/2024/05/manufacturing-istock-973143870.jpg",
+      "file": "external/pegasosstudio.com/htechsupports/wp-content/uploads/2024/05/manufacturing-istock-973143870.jpg",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://pegasosstudio.com/htechsupports/wp-content/uploads/2024/05/Laptop-iStock.webp",
+      "file": "external/pegasosstudio.com/htechsupports/wp-content/uploads/2024/05/Laptop-iStock.webp",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/images.jpeg",
+      "file": "wp-content/uploads/2024/06/images.jpeg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 5839
+    },
+    {
+      "url": "https://htechsupports.com/author/app-htech/",
+      "file": "author/app-htech/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 153884
+    },
+    {
+      "url": "https://htechsupports.com/category/case-studies/",
+      "file": "category/case-studies/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 142875
+    },
+    {
+      "url": "https://htechsupports.com/the-ultimate-guide-to-choosing-the-right-itsupport-partner/",
+      "file": "the-ultimate-guide-to-choosing-the-right-itsupport-partner/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 148120
+    },
+    {
+      "url": "https://htechsupports.com/category/blog/",
+      "file": "category/blog/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 152382
+    },
+    {
+      "url": "https://htechsupports.com/5-common-it-problems-businesses-encounter-and-how-to-solve-them/",
+      "file": "5-common-it-problems-businesses-encounter-and-how-to-solve-them/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 148648
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-320x320.jpg",
+      "file": "wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-320x320.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 15865
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-150x150.jpg",
+      "file": "wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-150x150.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 5546
+    },
+    {
+      "url": "https://htechsupports.com/the-benefits-of-ekahau-surveys-for-networkoptimization-assuming-this-is-a-service-offered/",
+      "file": "the-benefits-of-ekahau-surveys-for-networkoptimization-assuming-this-is-a-service-offered/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 148449
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/1666815936747-320x320.png",
+      "file": "wp-content/uploads/2024/06/1666815936747-320x320.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 93588
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/1666815936747-150x150.png",
+      "file": "wp-content/uploads/2024/06/1666815936747-150x150.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 24466
+    },
+    {
+      "url": "https://htechsupports.com/problems-everyone-has-when-working-remotely-and-how-to-solve-them/",
+      "file": "problems-everyone-has-when-working-remotely-and-how-to-solve-them/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 149820
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/thing-startups-should-outsource-320x320.jpg",
+      "file": "wp-content/uploads/2020/07/thing-startups-should-outsource-320x320.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 27157
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/thing-startups-should-outsource-150x150.jpg",
+      "file": "wp-content/uploads/2020/07/thing-startups-should-outsource-150x150.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 8995
+    },
+    {
+      "url": "https://htechsupports.com/the-best-remote-ux-and-ui-design-conferences-to-attend-in-2020/",
+      "file": "the-best-remote-ux-and-ui-design-conferences-to-attend-in-2020/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 147914
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1-320x320.webp",
+      "file": "wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1-320x320.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 9154
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1-150x150.webp",
+      "file": "wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1-150x150.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 3914
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/images-150x150.jpeg",
+      "file": "wp-content/uploads/2024/06/images-150x150.jpeg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 5485
+    },
+    {
+      "url": "https://htechsupports.com/tag/creative/",
+      "file": "tag/creative/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 144659
+    },
+    {
+      "url": "https://htechsupports.com/tag/internet/",
+      "file": "tag/internet/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 142339
+    },
+    {
+      "url": "https://htechsupports.com/tag/marketing/",
+      "file": "tag/marketing/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 142360
+    },
+    {
+      "url": "https://htechsupports.com/tag/startup/",
+      "file": "tag/startup/index.html",
+      "kind": "page",
+      "status": "downloaded",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 144651
+    },
+    {
+      "url": "https://www.swaytheme.com/static/wp-content/uploads/sites/3/2020/11/subscribe-widget.jpg",
+      "file": "external/www.swaytheme.com/static/wp-content/uploads/sites/3/2020/11/subscribe-widget.jpg",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/07/synthetic-monitoring-vs-rum-2-scaled-1.jpg",
+      "file": "wp-content/uploads/2024/07/synthetic-monitoring-vs-rum-2-scaled-1.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 379665
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-400x250.jpg",
+      "file": "wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-400x250.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 16629
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/1666815936747-400x250.png",
+      "file": "wp-content/uploads/2024/06/1666815936747-400x250.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 61614
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/1666815936747-300x188.png",
+      "file": "wp-content/uploads/2024/06/1666815936747-300x188.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 36795
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/1666815936747-768x480.png",
+      "file": "wp-content/uploads/2024/06/1666815936747-768x480.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 192862
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/1666815936747.png",
+      "file": "wp-content/uploads/2024/06/1666815936747.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 100037
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/thing-startups-should-outsource-400x250.jpg",
+      "file": "wp-content/uploads/2020/07/thing-startups-should-outsource-400x250.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 30126
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1-400x250.webp",
+      "file": "wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1-400x250.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 9520
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js",
+      "file": "wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 7168
+    },
+    {
+      "url": "https://htechsupports.com/wp-includes/js/underscore.min.js",
+      "file": "wp-includes/js/underscore.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 18905
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js",
+      "file": "wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-javascript",
+      "bytes": 26460
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/05/1695280889652.jpeg",
+      "file": "wp-content/uploads/2024/05/1695280889652.jpeg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 170189
+    },
+    {
+      "url": "https://www.swaytheme.com/wp-content/uploads/sites/3/2020/10/transport-bg3.png",
+      "file": "external/www.swaytheme.com/wp-content/uploads/sites/3/2020/10/transport-bg3.png",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Maps-Locations.woff",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Maps-Locations.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 16524
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Maps-Locations.css",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Maps-Locations.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 3110
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Emails.woff",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Emails.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 27384
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Emails.css",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Emails.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 3741
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Cloud-Class.woff",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Cloud-Class.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 12084
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Cloud-Class.css",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Cloud-Class.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 2046
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Business-Finance.woff",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Business-Finance.woff",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/font-woff",
+      "bytes": 21712
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Business-Finance.css",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Business-Finance.css",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "text/css",
+      "bytes": 3305
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Bodypart.ttf",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Bodypart.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 27548
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Objects.ttf",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Objects.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 33780
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/img/photoswipe/default-skin.png",
+      "file": "wp-content/plugins/keydesign-addon/assets/img/photoswipe/default-skin.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 547
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/img/photoswipe/default-skin.svg",
+      "file": "wp-content/plugins/keydesign-addon/assets/img/photoswipe/default-skin.svg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/svg+xml",
+      "bytes": 1554
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/assets/img/photoswipe/preloader.gif",
+      "file": "wp-content/plugins/keydesign-addon/assets/img/photoswipe/preloader.gif",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/gif",
+      "bytes": 866
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-1024x576.jpg",
+      "file": "wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-1024x576.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 65393
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-300x169.jpg",
+      "file": "wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-300x169.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 10321
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-768x432.jpg",
+      "file": "wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-768x432.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 42391
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-1536x864.jpg",
+      "file": "wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions-1536x864.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 118747
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions.jpg",
+      "file": "wp-content/uploads/2024/06/top-10-most-common-it-problems-for-businesses-with-easy-solutions.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 91081
+    },
+    {
+      "url": "https://www.carmager.com/hpeciai/988a0c6d032527bcb3e7bccd15ee105c/pol_pl_Uniwersalne-pokrowce-samochodowe-do-Fiat-Freemont-2011-2016-pokrowce-na-fotele-Auto-Dekor-Elegance-P-1-17445_3.jpg",
+      "file": "external/www.carmager.com/hpeciai/988a0c6d032527bcb3e7bccd15ee105c/pol_pl_Uniwersalne-pokrowce-samochodowe-do-Fiat-Freemont-2011-2016-pokrowce-na-fotele-Auto-Dekor-Elegance-P-1-17445_3.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 34805
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1-1024x576.webp",
+      "file": "wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1-1024x576.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 27438
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1-300x169.webp",
+      "file": "wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1-300x169.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 6790
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1-768x432.webp",
+      "file": "wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1-768x432.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 19742
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1.webp",
+      "file": "wp-content/uploads/2020/07/00Jz1RYHNPLskrffw3eUvWg-1.webp",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/webp",
+      "bytes": 39774
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/thing-startups-should-outsource.jpg",
+      "file": "wp-content/uploads/2020/07/thing-startups-should-outsource.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 118083
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/thing-startups-should-outsource-300x194.jpg",
+      "file": "wp-content/uploads/2020/07/thing-startups-should-outsource-300x194.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 21019
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/uploads/2020/07/thing-startups-should-outsource-768x497.jpg",
+      "file": "wp-content/uploads/2020/07/thing-startups-should-outsource-768x497.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 77216
+    },
+    {
+      "url": "http://www.evolutionary-ecology.com/sample/ccar1897.pdf",
+      "file": "external/www.evolutionary-ecology.com/sample/ccar1897.pdf",
+      "kind": "asset",
+      "status": "failed",
+      "error": "HTTP 525"
+    },
+    {
+      "url": "https://proektmedia-stat.ams3.digitaloceanspaces.com/2019/01/bob_king_main_image.jpg",
+      "file": "external/proektmedia-stat.ams3.digitaloceanspaces.com/2019/01/bob_king_main_image.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 95709
+    },
+    {
+      "url": "https://proektmedia-stat.ams3.digitaloceanspaces.com/2018/10/sosed-putina-boris-listov.png",
+      "file": "external/proektmedia-stat.ams3.digitaloceanspaces.com/2018/10/sosed-putina-boris-listov.png",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/png",
+      "bytes": 176449
+    },
+    {
+      "url": "http://proekt.media/wp-content/uploads/2018/09/Listov_approved.jpg",
+      "file": "external/proekt.media/wp-content/uploads/2018/09/Listov_approved.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 113168
+    },
+    {
+      "url": "https://russiancouncil.ru/upload/main/92c/aven_1_.jpg",
+      "file": "external/russiancouncil.ru/upload/main/92c/aven_1_.jpg",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "image/jpeg",
+      "bytes": 175504
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Maps-Locations.ttf",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Maps-Locations.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 16448
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Emails.ttf",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Emails.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 27308
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Cloud-Class.ttf",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Cloud-Class.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 12008
+    },
+    {
+      "url": "https://htechsupports.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Business-Finance.ttf",
+      "file": "wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Business-Finance.ttf",
+      "kind": "asset",
+      "status": "downloaded",
+      "contentType": "application/x-font-ttf",
+      "bytes": 21636
+    }
+  ],
+  "note": "Public frontend source; blog comment sections removed. Original downloads remain in the local archive."
+}

@@ -1,0 +1,7 @@
+/* Small compatibility layer; the downloaded Sway styles remain authoritative. */
+html, body { overflow-x:clip; }
+.kd-animated { opacity:1!important; visibility:visible!important; }
+.wpcf7-form .wpcf7-response-output[data-local-result] { display:block; margin:18px 0; padding:12px 16px; border:1px solid #0056a7; border-radius:4px; font-size:14px; }
+.wpcf7-form .wpcf7-response-output[data-local-result="error"] { border-color:#b33030; }
+.wpcf7-form .wpcf7-spinner, .wpcf7-recaptcha, .grecaptcha-noscript { display:none!important; }
+@media (prefers-reduced-motion:reduce) { html {scroll-behavior:auto!important} }

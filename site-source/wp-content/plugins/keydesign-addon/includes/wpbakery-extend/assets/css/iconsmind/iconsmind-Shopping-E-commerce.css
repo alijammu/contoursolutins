@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'iconsmind-Shopping-E-commerce';
+  src: url('fonts/Shopping-E-commerce.woff') format('woff'),
+       url('fonts/Shopping-E-commerce.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.iconsmind-Shopping-E-commerce[class^="iconsmind-"], .iconsmind-Shopping-E-commerce[class*=" iconsmind-"] {
+  font-family: 'iconsmind-Shopping-E-commerce' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.iconsmind-Add-Bag:before { content: "\e900"!important; }
+.iconsmind-Add-Basket:before { content: "\e901"!important; }
+.iconsmind-Add-Cart:before { content: "\e902"!important; }
+.iconsmind-Bag-Coins:before { content: "\e903"!important; }
+.iconsmind-Bag-Items:before { content: "\e904"!important; }
+.iconsmind-Bag-Quantity:before { content: "\e905"!important; }
+.iconsmind-Bar-Code:before { content: "\e906"!important; }
+.iconsmind-Basket-Coins:before { content: "\e907"!important; }
+.iconsmind-Basket-Items:before { content: "\e908"!important; }
+.iconsmind-Basket-Quantity:before { content: "\e909"!important; }
+.iconsmind-Bitcoin:before { content: "\e90a"!important; }
+.iconsmind-Car-Coins:before { content: "\e90b"!important; }
+.iconsmind-Car-Items:before { content: "\e90c"!important; }
+.iconsmind-Cart-Quantity:before { content: "\e90d"!important; }
+.iconsmind-Cash-Register:before { content: "\e90e"!important; }
+.iconsmind-Cash-register2:before { content: "\e90f"!important; }
+.iconsmind-Checkout:before { content: "\e910"!important; }
+.iconsmind-Checkout-Bag:before { content: "\e911"!important; }
+.iconsmind-Checkout-Basket:before { content: "\e912"!important; }
+.iconsmind-Full-Basket:before { content: "\e913"!important; }
+.iconsmind-Full-Cart:before { content: "\e914"!important; }
+.iconsmind-Full-Bag:before { content: "\e915"!important; }
+.iconsmind-Home:before { content: "\e916"!important; }
+.iconsmind-Password-2shopping:before { content: "\e917"!important; }
+.iconsmind-Password-shopping:before { content: "\e918"!important; }
+.iconsmind-QR-Code:before { content: "\e919"!important; }
+.iconsmind-Receipt:before { content: "\e91a"!important; }
+.iconsmind-Receipt-2:before { content: "\e91b"!important; }
+.iconsmind-Receipt-3:before { content: "\e91c"!important; }
+.iconsmind-Receipt-4:before { content: "\e91d"!important; }
+.iconsmind-Remove-Bag:before { content: "\e91e"!important; }
+.iconsmind-Remove-Basket:before { content: "\e91f"!important; }
+.iconsmind-Remove-Cart:before { content: "\e920"!important; }
+.iconsmind-Shop:before { content: "\e921"!important; }
+.iconsmind-Shop-2:before { content: "\e922"!important; }
+.iconsmind-Shop-3:before { content: "\e923"!important; }
+.iconsmind-Shop-4:before { content: "\e924"!important; }
+.iconsmind-Shopping-Bag:before { content: "\e925"!important; }
+.iconsmind-Shopping-Basket:before { content: "\e926"!important; }
+.iconsmind-Shopping-Cart:before { content: "\e927"!important; }
+.iconsmind-Tag-2:before { content: "\e928"!important; }
+.iconsmind-Tag-3:before { content: "\e929"!important; }
+.iconsmind-Tag-4:before { content: "\e92a"!important; }
+.iconsmind-Tag-5:before { content: "\e92b"!important; }
+.iconsmind-This-SideUp:before { content: "\e92c"!important; }

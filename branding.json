@@ -1,0 +1,13 @@
+{
+  "name": "Consort Technologies",
+  "shortName": "Consort Technologies",
+  "siteTitle": "Consort Technologies",
+  "email": "sales@htechsupports.com",
+  "partnerEmail": "resources@htechsupports.com",
+  "logo": "/assets/consort-logo.svg",
+  "lightLogo": "/assets/consort-logo-light.svg",
+  "favicon": "/assets/consort-icon.svg",
+  "primaryColor": "",
+  "textReplacements": {"htech supports": "Consort Technologies"},
+  "urlReplacements": {}
+}

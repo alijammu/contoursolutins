@@ -1,0 +1,13 @@
+{
+  "name": "consort-technologies",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "capture": "node tools/capture.mjs",
+    "prepare:source": "node tools/prepare-source.mjs",
+    "build": "node tools/build.mjs",
+    "start": "node tools/serve.mjs",
+    "check": "node tools/check.mjs",
+    "export:pages": "node tools/export-pages.mjs"
+  }
+}

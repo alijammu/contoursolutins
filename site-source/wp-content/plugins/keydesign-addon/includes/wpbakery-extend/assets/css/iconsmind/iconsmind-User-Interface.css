@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'iconsmind-User-Interface';
+  src: url('fonts/User-Interface.woff') format('woff'),
+       url('fonts/User-Interface.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.iconsmind-User-Interface[class^="iconsmind-"], .iconsmind-User-Interface[class*=" iconsmind-"] {
+  font-family: 'iconsmind-User-Interface' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.iconsmind-Affiliate:before { content: "\e900"!important; }
+.iconsmind-Background:before { content: "\e901"!important; }
+.iconsmind-Billing:before { content: "\e902"!important; }
+.iconsmind-Control:before { content: "\e903"!important; }
+.iconsmind-Control-2:before { content: "\e904"!important; }
+.iconsmind-Crop-2:before { content: "\e905"!important; }
+.iconsmind-Dashboard:before { content: "\e906"!important; }
+.iconsmind-Duplicate-Layer:before { content: "\e907"!important; }
+.iconsmind-Filter-2:before { content: "\e908"!important; }
+.iconsmind-Gear:before { content: "\e909"!important; }
+.iconsmind-Gear-2:before { content: "\e90a"!important; }
+.iconsmind-Gears:before { content: "\e90b"!important; }
+.iconsmind-Gears-2:before { content: "\e90c"!important; }
+.iconsmind-Information:before { content: "\e90d"!important; }
+.iconsmind-Layer-Backward:before { content: "\e90e"!important; }
+.iconsmind-Layer-Forward:before { content: "\e90f"!important; }
+.iconsmind-Library:before { content: "\e910"!important; }
+.iconsmind-Loading:before { content: "\e911"!important; }
+.iconsmind-Loading-2:before { content: "\e912"!important; }
+.iconsmind-Loading-3:before { content: "\e913"!important; }
+.iconsmind-Magnifi-Glass:before { content: "\e914"!important; }
+.iconsmind-Magnifi-Glass-:before { content: "\e915"!important; }
+.iconsmind-Magnifi-Glass2:before { content: "\e916"!important; }
+.iconsmind-Mouse-Pointer:before { content: "\e917"!important; }
+.iconsmind-On-off:before { content: "\e918"!important; }
+.iconsmind-On-Off-2:before { content: "\e919"!important; }
+.iconsmind-On-Off-3:before { content: "\e91a"!important; }
+.iconsmind-Preview:before { content: "\e91b"!important; }
+.iconsmind-Pricing:before { content: "\e91c"!important; }
+.iconsmind-Profile:before { content: "\e91d"!important; }
+.iconsmind-Project:before { content: "\e91e"!important; }
+.iconsmind-Rename:before { content: "\e91f"!important; }
+.iconsmind-Repair:before { content: "\e920"!important; }
+.iconsmind-Save:before { content: "\e921"!important; }
+.iconsmind-Scroller:before { content: "\e922"!important; }
+.iconsmind-Scroller-2:before { content: "\e923"!important; }
+.iconsmind-Share:before { content: "\e924"!important; }
+.iconsmind-Statistic:before { content: "\e925"!important; }
+.iconsmind-Support:before { content: "\e926"!important; }
+.iconsmind-Switch:before { content: "\e927"!important; }
+.iconsmind-Upgrade:before { content: "\e928"!important; }
+.iconsmind-User:before { content: "\e929"!important; }
+.iconsmind-Wrench:before { content: "\e92a"!important; }

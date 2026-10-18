@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'iconsmind-Buildings-Landmarks';
+  src: url('fonts/Buildings-Landmarks.woff') format('woff'),
+       url('fonts/Buildings-Landmarks.ttf') format('truetype');
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.iconsmind-Buildings-Landmarks[class^="iconsmind-"], .iconsmind-Buildings-Landmarks[class*=" iconsmind-"] {
+  font-family: 'iconsmind-Buildings-Landmarks' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.iconsmind-Bank:before { content: "\e900"!important; }
+.iconsmind-Berlin-Tower:before { content: "\e901"!important; }
+.iconsmind-Big-Bang:before { content: "\e902"!important; }
+.iconsmind-Blueprint:before { content: "\e903"!important; }
+.iconsmind-Bridge:before { content: "\e904"!important; }
+.iconsmind-Building:before { content: "\e905"!important; }
+.iconsmind-Castle:before { content: "\e906"!important; }
+.iconsmind-Cathedral:before { content: "\e907"!important; }
+.iconsmind-Chimney:before { content: "\e908"!important; }
+.iconsmind-Chinese-Temple:before { content: "\e909"!important; }
+.iconsmind-Chrysler-Building:before { content: "\e90a"!important; }
+.iconsmind-City-Hall:before { content: "\e90b"!important; }
+.iconsmind-Clothing-Store:before { content: "\e90c"!important; }
+.iconsmind-Colosseum:before { content: "\e90d"!important; }
+.iconsmind-Column:before { content: "\e90e"!important; }
+.iconsmind-Column-2:before { content: "\e90f"!important; }
+.iconsmind-Column-3:before { content: "\e910"!important; }
+.iconsmind-Door:before { content: "\e911"!important; }
+.iconsmind-Eifel-Tower:before { content: "\e912"!important; }
+.iconsmind-El-Castillo:before { content: "\e913"!important; }
+.iconsmind-Embassy:before { content: "\e914"!important; }
+.iconsmind-Empire-StateBuilding:before { content: "\e915"!important; }
+.iconsmind-Factory:before { content: "\e916"!important; }
+.iconsmind-Fire-Staion:before { content: "\e917"!important; }
+.iconsmind-Home:before { content: "\e918"!important; }
+.iconsmind-Home-2:before { content: "\e919"!important; }
+.iconsmind-Home-3:before { content: "\e91a"!important; }
+.iconsmind-Home-4:before { content: "\e91b"!important; }
+.iconsmind-Hospital:before { content: "\e91c"!important; }
+.iconsmind-Hotel:before { content: "\e91d"!important; }
+.iconsmind-Japanese-Gate:before { content: "\e91e"!important; }
+.iconsmind-Leaning-Tower:before { content: "\e91f"!important; }
+.iconsmind-Library:before { content: "\e920"!important; }
+.iconsmind-Lighthouse:before { content: "\e921"!important; }
+.iconsmind-Museum:before { content: "\e922"!important; }
+.iconsmind-Office:before { content: "\e923"!important; }
+.iconsmind-Opera-House:before { content: "\e924"!important; }
+.iconsmind-Pantheon:before { content: "\e925"!important; }
+.iconsmind-Pentagon:before { content: "\e926"!important; }
+.iconsmind-Petronas-Tower:before { content: "\e927"!important; }
+.iconsmind-Piramids:before { content: "\e928"!important; }
+.iconsmind-Police-Station:before { content: "\e929"!important; }
+.iconsmind-Post-Office:before { content: "\e92a"!important; }
+.iconsmind-Prater:before { content: "\e92b"!important; }
+.iconsmind-Roof:before { content: "\e92c"!important; }
+.iconsmind-Space-Needle:before { content: "\e92d"!important; }
+.iconsmind-St-BasilsCathedral:before { content: "\e92e"!important; }
+.iconsmind-St-PaulsCathedral:before { content: "\e92f"!important; }
+.iconsmind-Structure:before { content: "\e930"!important; }
+.iconsmind-Taj-Mahal:before { content: "\e931"!important; }
+.iconsmind-Temple:before { content: "\e932"!important; }
+.iconsmind-The-WhiteHouse:before { content: "\e933"!important; }
+.iconsmind-Tower:before { content: "\e934"!important; }
+.iconsmind-Tower-2:before { content: "\e935"!important; }
+.iconsmind-Tower-Bridge:before { content: "\e936"!important; }
+.iconsmind-University:before { content: "\e937"!important; }
+.iconsmind-Warehouse:before { content: "\e938"!important; }
+.iconsmind-Window:before { content: "\e939"!important; }
+.iconsmind-Windows:before { content: "\e93a"!important; }

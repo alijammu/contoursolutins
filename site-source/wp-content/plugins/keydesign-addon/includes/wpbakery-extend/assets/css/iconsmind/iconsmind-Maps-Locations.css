@@ -1,0 +1,61 @@
+@font-face {
+  font-family: 'iconsmind-Maps-Locations';
+  src: url('fonts/Maps-Locations.woff') format('woff'),
+       url('fonts/Maps-Locations.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.iconsmind-Maps-Locations[class^="iconsmind-"], .iconsmind-Maps-Locations[class*=" iconsmind-"] {
+  font-family: 'iconsmind-Maps-Locations' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.iconsmind-Compass:before { content: "\e900"!important; }
+.iconsmind-Compass-2:before { content: "\e901"!important; }
+.iconsmind-Compass-Rose:before { content: "\e902"!important; }
+.iconsmind-Direction-East:before { content: "\e903"!important; }
+.iconsmind-Direction-North:before { content: "\e904"!important; }
+.iconsmind-Direction-South:before { content: "\e905"!important; }
+.iconsmind-Direction-West:before { content: "\e906"!important; }
+.iconsmind-Edit-Map:before { content: "\e907"!important; }
+.iconsmind-Geo:before { content: "\e908"!important; }
+.iconsmind-Geo1:before { content: "\e909"!important; }
+.iconsmind-Geo2:before { content: "\e90a"!important; }
+.iconsmind-Geo21:before { content: "\e90b"!important; }
+.iconsmind-Geo22:before { content: "\e90c"!important; }
+.iconsmind-Geo23:before { content: "\e90d"!important; }
+.iconsmind-Geo2-Close:before { content: "\e90e"!important; }
+.iconsmind-Geo2-Love:before { content: "\e90f"!important; }
+.iconsmind-Geo2-Number:before { content: "\e910"!important; }
+.iconsmind-Geo2-Star:before { content: "\e911"!important; }
+.iconsmind-Geo3:before { content: "\e912"!important; }
+.iconsmind-Geo31:before { content: "\e913"!important; }
+.iconsmind-Geo32:before { content: "\e914"!important; }
+.iconsmind-Geo3-Close:before { content: "\e915"!important; }
+.iconsmind-Geo3-Love:before { content: "\e916"!important; }
+.iconsmind-Geo3-Number:before { content: "\e917"!important; }
+.iconsmind-Geo3-Star:before { content: "\e918"!important; }
+.iconsmind-Geo-Close:before { content: "\e919"!important; }
+.iconsmind-Geo-Love:before { content: "\e91a"!important; }
+.iconsmind-Geo-Number:before { content: "\e91b"!important; }
+.iconsmind-Geo-Star:before { content: "\e91c"!important; }
+.iconsmind-Global-Position:before { content: "\e91d"!important; }
+.iconsmind-Globe:before { content: "\e91e"!important; }
+.iconsmind-Globe-2:before { content: "\e91f"!important; }
+.iconsmind-Location:before { content: "\e920"!important; }
+.iconsmind-Location-2:before { content: "\e921"!important; }
+.iconsmind-Map:before { content: "\e922"!important; }
+.iconsmind-Map2:before { content: "\e923"!important; }
+.iconsmind-Map-Marker:before { content: "\e924"!important; }
+.iconsmind-Map-Marker2:before { content: "\e925"!important; }
+.iconsmind-Map-Marker3:before { content: "\e926"!important; }
+.iconsmind-Road:before { content: "\e927"!important; }
+.iconsmind-Satelite:before { content: "\e928"!important; }
+.iconsmind-Satelite-2:before { content: "\e929"!important; }
+.iconsmind-Street-View:before { content: "\e92a"!important; }
+.iconsmind-Street-View2:before { content: "\e92b"!important; }

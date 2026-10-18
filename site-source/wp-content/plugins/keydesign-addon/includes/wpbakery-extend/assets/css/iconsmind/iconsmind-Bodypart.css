@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'iconsmind-Bodypart';
+  src: url('fonts/Bodypart.woff') format('woff'),
+       url('fonts/Bodypart.ttf') format('truetype');
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.iconsmind-Bodypart[class^="iconsmind-"], .iconsmind-Bodypart[class*=" iconsmind-"] {
+  font-family: 'iconsmind-Bodypart' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.iconsmind-Bones:before { content: "\e900"!important; }
+.iconsmind-Brain:before { content: "\e901"!important; }
+.iconsmind-Brain-2:before { content: "\e902"!important; }
+.iconsmind-Cardiovascular:before { content: "\e903"!important; }
+.iconsmind-Ear:before { content: "\e904"!important; }
+.iconsmind-Elbow:before { content: "\e905"!important; }
+.iconsmind-Eye:before { content: "\e906"!important; }
+.iconsmind-Eye-Blind:before { content: "\e907"!important; }
+.iconsmind-Eyebrow:before { content: "\e908"!important; }
+.iconsmind-Eyebrow-2:before { content: "\e909"!important; }
+.iconsmind-Eyebrow-3:before { content: "\e90a"!important; }
+.iconsmind-Eye-Invisible:before { content: "\e90b"!important; }
+.iconsmind-Eye-Visible:before { content: "\e90c"!important; }
+.iconsmind-Face-Style:before { content: "\e90d"!important; }
+.iconsmind-Face-Style2:before { content: "\e90e"!important; }
+.iconsmind-Face-Style3:before { content: "\e90f"!important; }
+.iconsmind-Face-Style4:before { content: "\e910"!important; }
+.iconsmind-Face-Style5:before { content: "\e911"!important; }
+.iconsmind-Face-Style6:before { content: "\e912"!important; }
+.iconsmind-Finger:before { content: "\e913"!important; }
+.iconsmind-Fingerprint:before { content: "\e914"!important; }
+.iconsmind-Fingerprint-2:before { content: "\e915"!important; }
+.iconsmind-Foot:before { content: "\e916"!important; }
+.iconsmind-Foot-2:before { content: "\e917"!important; }
+.iconsmind-Hair:before { content: "\e918"!important; }
+.iconsmind-Hand:before { content: "\e919"!important; }
+.iconsmind-Hands:before { content: "\e91a"!important; }
+.iconsmind-Heart:before { content: "\e91b"!important; }
+.iconsmind-Knee:before { content: "\e91c"!important; }
+.iconsmind-Leg:before { content: "\e91d"!important; }
+.iconsmind-Leg-2:before { content: "\e91e"!important; }
+.iconsmind-Mustache:before { content: "\e91f"!important; }
+.iconsmind-Mustache-2:before { content: "\e920"!important; }
+.iconsmind-Mustache-3:before { content: "\e921"!important; }
+.iconsmind-Mustache-4:before { content: "\e922"!important; }
+.iconsmind-Mustache-5:before { content: "\e923"!important; }
+.iconsmind-Noose:before { content: "\e924"!important; }
+.iconsmind-Tooth:before { content: "\e925"!important; }
+.iconsmind-Tooth-2:before { content: "\e926"!important; }
