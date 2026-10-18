@@ -24,19 +24,21 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Read Pages URL settings
+        id: pages
+        uses: actions/configure-pages@v5
       - name: Build static site
         run: node tools/build.mjs
       - name: Check pages
         run: node tools/check.mjs
-      - name: Export for repository URL
+      - name: Export for Pages URL
         env:
-          REPOSITORY_NAME: ${{ github.event.repository.name }}
-        run: node tools/export-pages.mjs --base=/$REPOSITORY_NAME/
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: node tools/export-pages.mjs --base=${BASE_PATH%/}/
       - name: Check export
         env:
-          REPOSITORY_NAME: ${{ github.event.repository.name }}
-        run: node tools/check-pages-export.mjs /$REPOSITORY_NAME/
-      - uses: actions/configure-pages@v5
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: node tools/check-pages-export.mjs ${BASE_PATH%/}/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: deploy/github-pages
