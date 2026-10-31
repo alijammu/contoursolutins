@@ -28,7 +28,7 @@ To use a replacement logo, put it in `src/assets/`, set the corresponding path i
 
 ## Forms and limits
 
-Contact and partner forms save inquiry data to `data/submissions.jsonl` through the local server. They display a clear local-save confirmation. They do not email H-Tech Supports. File uploads require a future backend integration.
+Contact and partner forms save inquiry data to `data/submissions.jsonl` through the local server. They display a clear local-save confirmation. They do not email Consort Supports. File uploads require a future backend integration.
 
 This is a static frontend reconstruction. Public downloads cannot include WordPress PHP code, admin access, the database, email integrations, or private portal functionality. Original external social and hub links are preserved until replaced. Maps and external links may need internet access. Some image links were already unavailable at the source; they are listed in the capture report. Blog spam comments are retained only in the original archive and removed from the local build.
 

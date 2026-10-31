@@ -52,14 +52,14 @@ for (const record of good) {
       const pairs = {
         'sales@htechsupports.com': branding.email,
         'resources@htechsupports.com': branding.partnerEmail,
-        'H-Tech Supports': branding.name,
+        'Consort Supports': branding.name,
         'htechsupports': branding.siteTitle,
         'HTS': branding.shortName,
         ...branding.textReplacements,
         ...branding.urlReplacements
       };
       const brandText = value => {
-        value = value.replace(/(?:sales|resources)@htechsupports\.com|H-Tech Supports|htechsupports|\bHTS\b/g, match => pairs[match] ?? match);
+        value = value.replace(/(?:sales|resources)@htechsupports\.com|Consort Supports|htechsupports|\bHTS\b/g, match => pairs[match] ?? match);
         for (const [before, after] of Object.entries(branding.textReplacements)) value = value.split(before).join(after);
         return value;
       };
