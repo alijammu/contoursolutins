@@ -30,6 +30,13 @@ for (const record of good) {
     if (record.kind === 'page') text = text.replace(/<section\b[^>]*class=["']page-content comments-content["'][^>]*>[\s\S]*?<\/section>/gi, '');
     text = localize(text);
     if (record.kind === 'page') {
+      if (record.file === 'pages/engineer/index.html') {
+        // YouTube's loading overlay exposes the original uploader's name.
+        // Use the existing local hero image instead of initializing its player.
+        text = text.replace(/\sdata-vc-(?:video-bg|parallax-image)=["'][^"']*["']/gi, '');
+        text = text.replace(/\bvc_video-bg-container\b/g, '');
+        text = text.replace(/<script\b[^>]*\bid=["']vc_youtube_iframe_api_js-js["'][^>]*>[\s\S]*?<\/script>/gi, '');
+      }
       if (!branding.email && !branding.partnerEmail) {
         const oldEmail = '[A-Z0-9._%+-]+@htechsupports\\.com';
         // Remove the contact-page email card without touching its sibling cards.

@@ -18,6 +18,7 @@ for(const route of routes){
  }
  if((html.match(/<h[1-6]\b/g)||[]).length < (expected.match(/<h[1-6]\b/g)||[]).length)throw new Error('Missing page headings: '+route);
  if(!html.includes('/replica.js'))throw new Error('Missing replica handler: '+route);
+ if(route==='/pages/engineer/' && /data-vc-video-bg|youtube\.com\/iframe_api|Jazx_9KA6zs/.test(html))throw new Error('External engineering background player remains');
  if(/<script[^>]+src=["'][^"']*(contact-form-7|google.com\/recaptcha)/.test(html))throw new Error('Original form backend loaded: '+route);
  if(/<div id="comments"/.test(html))throw new Error('Source comments still included: '+route);
  for(const m of html.matchAll(/\b(?:src|href|poster)=["'](\/(?!\/)[^"']*)["']/g)){
