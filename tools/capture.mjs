@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-const origin = 'https://htechsupports.com';
+const origin = 'https://consorttechnologies.com';
 const root = path.resolve('archive');
 const records = new Map();
 const pending = [];
@@ -15,14 +15,14 @@ function enqueue(raw, base = origin + '/', kind) {
   if (!/^https?:$/.test(url.protocol)) return;
   url.hash = '';
   const asset = extensions.test(url.pathname);
-  const own = url.hostname === 'htechsupports.com' || url.hostname === 'www.htechsupports.com';
+  const own = url.hostname === 'consorttechnologies.com' || url.hostname === 'www.consorttechnologies.com';
   if (/[$+{}]|document\.location/.test(raw)) return;
   if (!own && !asset && url.hostname !== 'fonts.googleapis.com') return;
   if (own && /\/(?:wp-json|wp-admin|feed|comments)|xmlrpc|wp-login/.test(url.pathname)) return;
   if (!asset && own && !(/^\/$|^\/pages\/[^/]+\/$|^\/(?:blog-2?|resources|author\/[^/]+|category\/[^/]+|tag\/[^/]+)\/$|^\/[^/.]+\/$/.test(url.pathname))) return;
   if (!asset && own && /wp-content|wp-includes/.test(url.pathname)) return;
   if (!asset && own && url.search && !url.searchParams.has('page_id')) return;
-  if (own) url.hostname = 'htechsupports.com';
+  if (own) url.hostname = 'consorttechnologies.com';
   // Version parameters refer to the same public file.
   if (asset) url.search = '';
   const key = url.href;

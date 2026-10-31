@@ -1,6 +1,6 @@
 # Consort Technologies
 
-Consort Technologies website, reconstructed from the public frontend of https://htechsupports.com/ captured on October 13, 2026. The original layout, theme CSS, imagery, navigation, and browser scripts are retained. The company name and temporary wordmark have been updated; source company contact details and social links still need the business's replacements.
+Independent Consort Technologies website. Page content, local assets, and resource-loading policy are maintained in this repository.
 
 ## Run
 
@@ -28,9 +28,9 @@ To use a replacement logo, put it in `src/assets/`, set the corresponding path i
 
 ## Forms and limits
 
-Contact and partner forms save inquiry data to `data/submissions.jsonl` through the local server. They display a clear local-save confirmation. They do not email Consort Supports. File uploads require a future backend integration.
+Contact and partner forms save inquiry data to `data/submissions.jsonl` through the local server. They display a clear local-save confirmation. No submissions are sent to another business. File uploads require a future backend integration.
 
-This is a static frontend reconstruction. Public downloads cannot include WordPress PHP code, admin access, the database, email integrations, or private portal functionality. Original external social and hub links are preserved until replaced. Maps and external links may need internet access. Some image links were already unavailable at the source; they are listed in the capture report. Blog spam comments are retained only in the original archive and removed from the local build.
+This is a static frontend reconstruction. Public downloads cannot include WordPress PHP code, admin access, the database, email integrations, or private portal functionality. Imported social links, external embeds, and tracking code are removed. The published site loads its resources from its own origin. Some image links were already unavailable at the source; they are listed in the capture report. Blog spam comments are retained only in the original archive and removed from the local build.
 
 Use `npm run check` to audit local page references. `npm run capture` refreshes public downloads and may need network approval; it preserves previously downloaded records.
 
@@ -49,3 +49,7 @@ For an account site (`username.github.io`) or custom domain, use `--base=/`. The
 GitHub Pages does not run the Node.js server. Exported forms explicitly report that online submissions are not connected; a hosted form endpoint or separate backend is required before accepting live inquiries. No repository has been created and no site has been published by this export command.
 
 The repository includes a manual **Deploy GitHub Pages** workflow. To publish, select **GitHub Actions** in the repository's **Settings → Pages**, then run the workflow from **Actions**. Pushing code alone does not start a deployment. The workflow derives the repository path automatically. No npm installation step is required because the build has no third-party dependencies.
+
+## Isolation checks
+
+The build uses sanitized page sources and local assets. Run node tools/check-isolation.mjs deploy/github-pages to audit published files. Both deployment workflows run this audit before uploading. Import/QA utilities are retained but are not part of the published website; their reference URL is the Consort domain.

@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { sourceRoot } from './source-root.mjs';
+import { resetOutput } from './site-policy.mjs';
 
 // Usage: npm run export:pages -- --base=/repository-name/
 // Use --base=/ for an account site or a custom domain.
@@ -8,6 +9,7 @@ const argument = process.argv.find(value => value.startsWith('--base='));
 const base = argument ? argument.slice(7) : '/';
 if (!/^\/(?:[A-Za-z0-9_.-]+\/)*$/.test(base)) throw new Error('Base must be / or a repository path such as /my-site/.');
 const destination = path.resolve('deploy/github-pages');
+await resetOutput('deploy/github-pages');
 const manifest = JSON.parse(await fs.readFile(path.join(await sourceRoot(), 'manifest.json'), 'utf8'));
 const routes = JSON.parse(await fs.readFile('dist/routes.json', 'utf8'));
 const files = new Set([
@@ -38,7 +40,7 @@ for (const file of files) {
       text = text.replace('</head>', '<script>window.REPLICA_HOSTING={static:true};</script>\n</head>');
     }
     if (file === 'replica.js') {
-      text = text.replace("const response = await fetch('/api/contact',", "if (window.REPLICA_HOSTING?.static) throw new Error('Online submissions are not connected yet. Please contact us using the email shown on this page.');\n        const response = await fetch('/api/contact',");
+      text = text.replace("const response = await fetch('/api/contact',", "if (window.REPLICA_HOSTING?.static) throw new Error('Online inquiries are not available yet. Contact details will be published here once confirmed.');\n        const response = await fetch('/api/contact',");
     }
     bytes = Buffer.from(text);
   }

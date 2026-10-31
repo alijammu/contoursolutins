@@ -18,5 +18,5 @@ for(const route of routes){
 }
 await fs.access(path.join(root,'.nojekyll'));
 const js=await fs.readFile(path.join(root,'replica.js'),'utf8');
-if(!js.includes('Online submissions are not connected yet'))throw new Error('Missing form status message');
+if(!js.includes('Online inquiries are not available yet'))throw new Error('Missing form status message');
 console.log(`Verified ${routes.length} exported pages and ${count} page/asset references for ${base}`);

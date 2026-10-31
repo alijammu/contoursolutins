@@ -8,6 +8,6 @@
   "lightLogo": "/assets/consort-logo-light.svg",
   "favicon": "/assets/consort-icon.svg",
   "primaryColor": "",
-  "textReplacements": {"htech supports": "Consort Technologies"},
+  "textReplacements": {},
   "urlReplacements": {}
 }

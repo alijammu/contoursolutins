@@ -2,13 +2,14 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { sourceRoot } from './source-root.mjs';
 import { updateServiceCopy } from './service-copy.mjs';
+import { contentPolicy,resetOutput } from './site-policy.mjs';
 const sourceDirectory = await sourceRoot();
 const manifest = JSON.parse(await fs.readFile(path.join(sourceDirectory, 'manifest.json'), 'utf8'));
 const branding = JSON.parse(await fs.readFile('branding.json', 'utf8'));
 const good = manifest.records.filter(r => r.status === 'downloaded' && !['r/index.html','pages/index.html'].includes(r.file) && !/\.cur\/index\.html$/.test(r.file));
 const replacements = good.filter(r => /^https?:\/\//.test(r.url)).sort((a,b) => b.url.length-a.url.length);
 const built = [];
-await fs.mkdir('dist', { recursive: true });
+await resetOutput('dist');
 function localize(text) {
   // Some pages still point at the previous staging host, while the exact same
   // image is available among the production site's captured uploads.
@@ -86,7 +87,7 @@ for (const record of good) {
       for (const [before, after] of Object.entries(branding.urlReplacements)) text = text.split(before).join(after);
       text = text.replace(/\/wp-content\/uploads\/2024\/04\/PNG\.png/g, branding.logo).replace(/\/wp-content\/uploads\/2024\/04\/white\.png/g, branding.lightLogo);
       text = text.replace(/\/wp-content\/uploads\/2024\/04\/cropped-PNG-\d+x\d+\.png/g, branding.favicon);
-      text = text.replace('</head>', '<link rel="stylesheet" href="/replica.css">\n</head>');
+      text = text.replace('</head>', '<meta http-equiv="Content-Security-Policy" content="'+contentPolicy+'"><link rel="stylesheet" href="/replica.css">\n</head>');
       text = text.replace('</body>', '<script src="/replica.js" defer></script>\n</body>');
       built.push('/' + record.file.replace(/index\.html$/, ''));
     }

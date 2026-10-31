@@ -1,3 +1,4 @@
+import {checkIsolation} from './check-isolation.mjs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { sourceRoot } from './source-root.mjs';
@@ -34,3 +35,5 @@ for(const route of routes){
 await fs.writeFile('link-check.json',JSON.stringify({pagesChecked:assertions,missing:[...missing].map(([url,count])=>({url,count}))},null,2));
 console.log(JSON.stringify({pagesChecked:assertions,missing:[...missing]},null,2));
 if(missing.size)process.exitCode=1;
+
+await checkIsolation('dist');

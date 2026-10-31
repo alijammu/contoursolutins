@@ -6,3 +6,5 @@ html, body { overflow-x:clip; }
 .wpcf7-form .wpcf7-response-output[data-local-result="error"] { border-color:#b33030; }
 .wpcf7-form .wpcf7-spinner, .wpcf7-recaptcha, .grecaptcha-noscript { display:none!important; }
 @media (prefers-reduced-motion:reduce) { html {scroll-behavior:auto!important} }
+
+.home .intro-section { background-image:url('/wp-content/uploads/2020/11/contact-classic.jpg')!important; }

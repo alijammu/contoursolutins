@@ -50,8 +50,9 @@ jobs:
         env:
           BASE_PATH: ${{ steps.pages.outputs.base_path }}
         run: node tools/check-pages-export.mjs ${BASE_PATH%/}/
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Audit isolated website
+        run: node tools/check-isolation.mjs deploy/github-pages
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: deploy/github-pages
       - name: Deploy to GitHub Pages

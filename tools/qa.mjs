@@ -39,7 +39,7 @@ for(const route of ['/pages/company/','/pages/services/','/pages/sectors/','/pag
 }
 await fs.writeFile('browser-check.json',JSON.stringify({errors,failed,formCheck},null,2));
 if(process.argv.includes('--local-only')){await browser.close();process.exit(0);}
-await page.goto('https://htechsupports.com/',{waitUntil:'load',timeout:45000});
+await page.goto('https://consorttechnologies.com/',{waitUntil:'load',timeout:45000});
 await page.setViewportSize({width:1440,height:1000});
 await page.waitForTimeout(2500);
 await page.getByRole('button',{name:'Reject All',exact:true}).first().click().catch(()=>{});
