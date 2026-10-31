@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { sourceRoot } from './source-root.mjs';
+import { updateServiceCopy } from './service-copy.mjs';
 const sourceDirectory = await sourceRoot();
 const manifest = JSON.parse(await fs.readFile(path.join(sourceDirectory, 'manifest.json'), 'utf8'));
 const branding = JSON.parse(await fs.readFile('branding.json', 'utf8'));
@@ -30,6 +31,7 @@ for (const record of good) {
     if (record.kind === 'page') text = text.replace(/<section\b[^>]*class=["']page-content comments-content["'][^>]*>[\s\S]*?<\/section>/gi, '');
     text = localize(text);
     if (record.kind === 'page') {
+      text = updateServiceCopy(text);
       if (record.file === 'pages/engineer/index.html') {
         // YouTube's loading overlay exposes the original uploader's name.
         // Use the existing local hero image instead of initializing its player.
